@@ -123,5 +123,4 @@ Before execution, update the project root directory and input/output paths in th
 
 The scripts support province-wise processing. Set the corresponding province identifier and repeat the processing steps for all 11 provincial-level regions.
 
-Ensure that predictor names and definitions remain consistent throughout feature extraction, sample extraction, model training, and annual prediction. In particular, `NRGDI` is defined as `(Red - Green) / (Red + Green)`.
 
